@@ -1,0 +1,2 @@
+# Stage-ordered-Proteomic-Atlas-of-Diabetic-Dementia-Progression-Pinpoint-Mechanistic-Targets-
+Comorbidity of diabetes and dementia poses a significant public health burden. We modeled the proteomic trajectory from health to obesity, diabetes, mild cognitive impairment, and diabetic dementia, revealing stage-specific dysregulation. Chronic inflammation persists, while kinase signaling and metabolic imbalance mark the diabetes transition. 
