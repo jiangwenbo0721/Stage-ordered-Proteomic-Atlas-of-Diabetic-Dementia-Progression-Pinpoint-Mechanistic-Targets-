@@ -1,0 +1,2 @@
+Protein,Trend,outcome,HR,p.value,conf.low,conf.high,p.fdr,group,beta_total,se_total
+LGALS4,Gradually Increasing,dementia,1.430723315,2.1e-9,1.27249537,1.608626053,2.52e-7,BMI,0.35818013107600366,0.05979757852092729

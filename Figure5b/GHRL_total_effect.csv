@@ -1,0 +1,2 @@
+Protein,Trend,outcome,HR,p.value,conf.low,conf.high,p.fdr,group,beta_total,se_total
+GHRL,Gradually Decreasing,dementia,0.897826084,0.013050957,0.824584288,0.977573414,0.10440766,BMI,-0.1077789,-0.043417641

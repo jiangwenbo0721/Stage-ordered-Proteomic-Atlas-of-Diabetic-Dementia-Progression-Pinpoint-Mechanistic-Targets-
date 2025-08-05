@@ -1,0 +1,2 @@
+Protein,Trend,outcome,HR,p.value,conf.low,conf.high,p.fdr,group,beta_total,se_total
+EGFR,Fluctuating Decreasing,dementia,0.378707823,0.007101543,0.18676067700000001,0.767932617,0.212281892,T2D,-0.970990287,-0.36068877

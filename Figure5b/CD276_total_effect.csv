@@ -1,0 +1,2 @@
+Protein,Trend,outcome,HR,p.value,conf.low,conf.high,p.fdr,group,beta_total,se_total
+CD276,Gradually Increasing,dementia,1.626173899,8.61605e-4,1.221690121,2.164576355,0.076489629,T2D,0.48622995436147676,0.14591834250312205

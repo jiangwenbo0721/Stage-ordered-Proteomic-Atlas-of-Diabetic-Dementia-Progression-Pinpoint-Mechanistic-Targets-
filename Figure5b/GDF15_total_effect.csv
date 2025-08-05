@@ -1,0 +1,2 @@
+Protein,Trend,outcome,HR,p.value,conf.low,conf.high,p.fdr,group,beta_total,se_total
+GDF15,Gradually Increasing,dementia,1.468739214,1.34e-5,1.23531116,1.746276524,0.003596266,T2D,0.38440435522379274,0.0882984001472618
